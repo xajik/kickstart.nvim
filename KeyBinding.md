@@ -80,3 +80,5 @@
 | Visual   | `>`             |                                       | Shift right selected text                   |
 | Visual   | `<`             |                                       | Shift left selected text                    |
 | Visual   | `=`             |                                       | Auto-indent selected text                   |
+| n        | `<leader>git`   | `<cmd>Neogit kind=split<cr>`                       | Open NeoGit                  |
+| n        | `<leader>cmt`| `<cmd>Neogit commit<cr>`                | Commit changes with NeoGit   |
