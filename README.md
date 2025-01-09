@@ -231,3 +231,8 @@ sudo pacman -S --noconfirm --needed gcc make git ripgrep fd unzip neovim
 ```
 </details>
 
+## Custom configuraion
+
+ * Install `delve` for Golang: `brew install delve`
+ * Update iTerm2 key binding to read `Options` as `M` see: https://stackoverflow.com/questions/8221909/m-bindings-in-vim-on-iterm2-terminal-dont-work
+ * For grep search install `brew install ripgrep`
